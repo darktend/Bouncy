@@ -1,0 +1,95 @@
+.subscribe {
+    background: url("/img/subscribe/Layer\ 449.jpg") no-repeat 50% 79%;
+    background-size: cover;
+    height: 380px;
+    position: relative;
+    background-color: rgba(2, 2, 2, .9);
+
+
+    &__photo {
+        width: 100%;
+        height: 380px;
+        position: absolute;
+        bottom: 0;
+        background-color: #000000;
+        opacity: .9;
+        padding: 88px 0;
+    }
+
+    &__item {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+        &-title {
+            color: #fff;
+            font-size: 20px;
+            font-family: 'Source Sans Pro', sans-serif;
+            line-height: 1;
+            text-transform: uppercase;
+            margin-bottom: 40px;
+
+        }
+
+        &-subtitle {
+            width: 100%;
+            max-width: 468px;
+            font-size: 14px;
+            line-height: 1.7;
+            font-family: 'Open Sans', sans-serif;
+            color: #81868e;
+            margin-bottom: 60px;
+        }
+    }
+
+    &__us {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    &__adress {
+        width: 360px;
+        border: 0;
+        padding-right: 10px;
+        // margin-right: 10px;
+
+        input {
+            margin: 0;
+            width: 100%;
+            padding: 10px 20px;
+            line-height: 1.7;
+            background-color: inherit;
+            border: 2px solid #81868e;
+            color: #fff;
+
+            &::placeholder {
+                font-size: 14px;
+                color: #cfd3d4;
+                font-family: 'Open Sans', sans-serif;
+            }
+        }
+    }
+
+    &__submit {
+        display: flex;
+        justify-content: center;
+        padding-right: 10px;
+
+        &-btn {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-transform: uppercase;
+            text-decoration: none;
+            color: #fff;
+            font-size: 14px;
+            font-family: 'Open Sans', sans-serif;
+            padding: 13px 51px;
+            background-color: #19bd9a;
+            cursor: pointer;
+        }
+    }
+}

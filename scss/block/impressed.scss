@@ -1,0 +1,107 @@
+.impressed {
+
+    background: url('/img/impressed/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg') no-repeat center;
+    background-size: cover;
+    height: 392px;
+    position: relative;
+    background-color: rgba(26, 26, 26, .9);
+
+
+    &__photo {
+        width: 100%;
+        height: 392px;
+        position: absolute;
+        bottom: 0;
+        background-color: #000000;
+        opacity: .9;
+        padding: 77px 0;
+
+
+
+    }
+
+    &__us {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    &__text {
+
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 600px;
+        text-align: justify;
+
+        &-title {
+            text-transform: uppercase;
+            font-size: 20px;
+            line-height: 1.5;
+            color: #f3f3f3;
+            font-family: 'Source Sans Pro', sans-serif;
+            margin-bottom: 45px;
+            // word-spacing: 1.5px;
+            letter-spacing: 6px;
+        }
+
+        &-subtitle {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #b2b3b3;
+            margin-bottom: 30px;
+
+
+        }
+
+        &-cafe {
+            text-transform: uppercase;
+            font-size: 14px;
+            color: #b2b3b3;
+            line-height: 1.5;
+        }
+
+        &-name {
+            margin: 0;
+            font-weight: 700;
+            overflow-wrap: break-word;
+
+            // b {
+            //     fw700
+            // }
+        }
+
+        &-code {
+            margin: 0;
+
+            span {
+                color: #19bd9a;
+            }
+        }
+
+    }
+
+    &__mac {
+        position: relative;
+
+        img {
+            top: -40%;
+            right: 0%;
+            position: relative;
+        }
+
+        &-title {
+            position: absolute;
+            top: -7%;
+            left: 35%;
+            color: #fff;
+            font-size: 30px;
+            text-transform: uppercase;
+
+            span {
+                color: #19bd9a;
+            }
+        }
+    }
+}
