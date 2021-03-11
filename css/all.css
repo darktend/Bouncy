@@ -177,14 +177,14 @@ body {
 
 .bouncy__item-title {
   font-size: 20px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: #333b46;
   font-weight: 300;
   margin-bottom: 50px;
 }
 
 .bouncy__item-text {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.5;
   width: 100%;
@@ -196,7 +196,7 @@ body {
 .bouncy__item-btn {
   text-decoration: none;
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   border: 2px solid #333b46;
   border-radius: 50px;
   padding: 12px 32px;
@@ -224,7 +224,7 @@ body {
   font-weight: 300;
   color: #333b46;
   line-height: 1;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   margin-bottom: 40px;
 }
@@ -236,7 +236,7 @@ body {
   max-width: 470px;
   text-align: center;
   color: #81868e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 65px;
 }
 
@@ -297,7 +297,7 @@ body {
 }
 
 .detalis__title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   margin-bottom: 35px;
   color: #81868e;
@@ -321,13 +321,13 @@ body {
 .detalis__subtitle-left span {
   font-weight: 700;
   color: #19bd9a;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .detalis__subtitle-left b {
   font-weight: 700;
   color: #636971;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .detalis__subtitle-right {
@@ -343,13 +343,13 @@ body {
 .detalis__subtitle-right span {
   font-weight: 700;
   color: #19bd9a;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .detalis__subtitle-right b {
   font-weight: 700;
   color: #636971;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .project {
@@ -367,13 +367,13 @@ body {
   font-size: 20px;
   margin-bottom: 40px;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .project__text-suptitle {
   font-size: 14px;
   line-height: 1.5;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   width: 100%;
   max-width: 466px;
@@ -401,7 +401,7 @@ body {
   left: 59%;
   font-size: 20px;
   color: #c3c3c3;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
   text-align: center;
 }
@@ -412,7 +412,7 @@ body {
   right: 13%;
   font-size: 20px;
   color: #c3c3c3;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
 }
 
@@ -491,7 +491,7 @@ body {
   text-decoration: none;
   font-size: 16px;
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   border: 2px solid #fff;
   border-radius: 50px;
   padding: 11px 13px;
@@ -517,14 +517,14 @@ body {
   text-transform: uppercase;
   margin-bottom: 40px;
   font-size: 20px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
   color: #6b7078;
 }
 
 .services__text-suptitle {
   font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #9ea1a7;
   width: 100%;
 }
@@ -627,7 +627,7 @@ body {
   hyphens: auto;
   width: 100%;
   max-width: 331px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   line-height: 1.7;
 }
@@ -646,7 +646,7 @@ body {
   hyphens: auto;
   width: 100%;
   max-width: 379px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   line-height: 1.5;
 }
@@ -881,7 +881,7 @@ body {
   font-weight: 300;
   color: #333b46;
   line-height: 1;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   margin-bottom: 41px;
 }
@@ -893,7 +893,7 @@ body {
   max-width: 470px;
   text-align: center;
   color: #81868e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 64px;
 }
 
@@ -913,7 +913,7 @@ body {
 .team__skils-name {
   font-size: 20px;
   color: #464646;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 13px;
   line-height: 2;
 }
@@ -922,7 +922,7 @@ body {
   text-transform: uppercase;
   font-size: 14px;
   font-style: italic;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   margin-bottom: 32px;
 }
@@ -931,7 +931,7 @@ body {
   text-align: right;
   width: 100%;
   max-width: 380px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.7;
   color: #81868e;
@@ -1121,7 +1121,7 @@ body {
   font-weight: 300;
   color: #333b46;
   line-height: 1;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   margin-bottom: 41px;
 }
@@ -1133,7 +1133,7 @@ body {
   max-width: 470px;
   text-align: center;
   color: #81868e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 64px;
 }
 
@@ -1161,7 +1161,7 @@ body {
   max-width: 741px;
   font-size: 16px;
   line-height: 1.7;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   margin: 0 auto;
 }
@@ -2542,14 +2542,14 @@ body {
 
 .bouncy__item-title {
   font-size: 20px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: #333b46;
   font-weight: 300;
   margin-bottom: 50px;
 }
 
 .bouncy__item-text {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.5;
   width: 100%;
@@ -2561,7 +2561,7 @@ body {
 .bouncy__item-btn {
   text-decoration: none;
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   border: 2px solid #333b46;
   border-radius: 50px;
   padding: 12px 32px;
@@ -2935,7 +2935,7 @@ body {
   font-weight: 300;
   color: #333b46;
   line-height: 1;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   margin-bottom: 40px;
 }
@@ -2947,7 +2947,7 @@ body {
   max-width: 470px;
   text-align: center;
   color: #81868e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 65px;
 }
 
@@ -3008,7 +3008,7 @@ body {
 }
 
 .detalis__title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   margin-bottom: 35px;
   color: #81868e;
@@ -3032,13 +3032,13 @@ body {
 .detalis__subtitle-left span {
   font-weight: 700;
   color: #19bd9a;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .detalis__subtitle-left b {
   font-weight: 700;
   color: #636971;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .detalis__subtitle-right {
@@ -3054,13 +3054,13 @@ body {
 .detalis__subtitle-right span {
   font-weight: 700;
   color: #19bd9a;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .detalis__subtitle-right b {
   font-weight: 700;
   color: #636971;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .footer {
@@ -4163,13 +4163,13 @@ body {
   font-size: 20px;
   margin-bottom: 40px;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .project__text-suptitle {
   font-size: 14px;
   line-height: 1.5;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   width: 100%;
   max-width: 466px;
@@ -4197,7 +4197,7 @@ body {
   left: 59%;
   font-size: 20px;
   color: #c3c3c3;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
   text-align: center;
 }
@@ -4208,7 +4208,7 @@ body {
   right: 13%;
   font-size: 20px;
   color: #c3c3c3;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
 }
 
@@ -4287,7 +4287,7 @@ body {
   text-decoration: none;
   font-size: 16px;
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   border: 2px solid #fff;
   border-radius: 50px;
   padding: 11px 13px;
@@ -4312,14 +4312,14 @@ body {
   text-transform: uppercase;
   margin-bottom: 40px;
   font-size: 20px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
   color: #6b7078;
 }
 
 .services__text-suptitle {
   font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #9ea1a7;
   width: 100%;
 }
@@ -4422,7 +4422,7 @@ body {
   hyphens: auto;
   width: 100%;
   max-width: 331px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   line-height: 1.7;
 }
@@ -4441,7 +4441,7 @@ body {
   hyphens: auto;
   width: 100%;
   max-width: 379px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   line-height: 1.5;
 }
@@ -4674,7 +4674,7 @@ body {
   font-weight: 300;
   color: #333b46;
   line-height: 1;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   margin-bottom: 41px;
 }
@@ -4686,7 +4686,7 @@ body {
   max-width: 470px;
   text-align: center;
   color: #81868e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 64px;
 }
 
@@ -4706,7 +4706,7 @@ body {
 .team__skils-name {
   font-size: 20px;
   color: #464646;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 13px;
   line-height: 2;
 }
@@ -4715,7 +4715,7 @@ body {
   text-transform: uppercase;
   font-size: 14px;
   font-style: italic;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   margin-bottom: 32px;
 }
@@ -4724,7 +4724,7 @@ body {
   text-align: right;
   width: 100%;
   max-width: 380px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.7;
   color: #81868e;
@@ -4912,7 +4912,7 @@ body {
   font-weight: 300;
   color: #333b46;
   line-height: 1;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   margin-bottom: 41px;
 }
@@ -4924,7 +4924,7 @@ body {
   max-width: 470px;
   text-align: center;
   color: #81868e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 64px;
 }
 
@@ -4952,7 +4952,7 @@ body {
   max-width: 741px;
   font-size: 16px;
   line-height: 1.7;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #81868e;
   margin: 0 auto;
 }
