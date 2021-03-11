@@ -75,7 +75,7 @@ body {
   align-items: center;
   margin: 0 auto;
   text-align: center;
-  background: url("/img/IMAGE.png") no-repeat center center/cover;
+  background: url("../img/IMAGE.png") no-repeat center center/cover;
   min-height: 100vh;
 }
 
@@ -449,7 +449,7 @@ body {
   height: 114px;
   position: relative;
   color: #fff;
-  background: url("/img/work/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
+  background: url("../img/work/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -773,7 +773,7 @@ body {
 }
 
 .impressed {
-  background: url("/img/impressed/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
+  background: url("../img/impressed/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
   background-size: cover;
   height: 392px;
   position: relative;
@@ -1066,7 +1066,7 @@ body {
 }
 
 .teamcta {
-  background: url("/img/team/Layer 104.jpg") no-repeat center;
+  background: url("../img/team/Layer 104.jpg") no-repeat center;
   background-size: cover;
   height: 202px;
   position: relative;
@@ -1206,7 +1206,7 @@ body {
 }
 
 .news {
-  background: url("/img/news/Layer 441.jpg") no-repeat center;
+  background: url("../img/news/Layer 441.jpg") no-repeat center;
   background-size: cover;
   height: 695px;
   position: relative;
@@ -1485,7 +1485,7 @@ body {
 }
 
 .subscribe {
-  background: url("/img/subscribe/Layer 449.jpg") no-repeat 50% 79%;
+  background: url("../img/subscribe/Layer 449.jpg") no-repeat 50% 79%;
   background-size: cover;
   height: 380px;
   position: relative;
@@ -1840,7 +1840,7 @@ body {
 }
 
 .contact__map {
-  background: url("/img/contact/map/MAP.jpg") no-repeat center;
+  background: url("../img/contact/map/MAP.jpg") no-repeat center;
   background-size: cover;
   height: 500px;
   position: relative;
@@ -2835,7 +2835,7 @@ body {
 }
 
 .contact__map {
-  background: url("/img/contact/map/MAP.jpg") no-repeat center;
+  background: url("../img/contact/map/MAP.jpg") no-repeat center;
   background-size: cover;
   height: 500px;
   position: relative;
@@ -3224,7 +3224,7 @@ body {
   align-items: center;
   margin: 0 auto;
   text-align: center;
-  background: url("/img/IMAGE.png") no-repeat center center/cover;
+  background: url("../img/IMAGE.png") no-repeat center center/cover;
   min-height: 100vh;
 }
 
@@ -3302,7 +3302,7 @@ body {
   color: #fff;
 }
 .impressed {
-  background: url("/img/impressed/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
+  background: url("../img/impressed/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
   background-size: cover;
   height: 392px;
   position: relative;
@@ -3872,7 +3872,7 @@ body {
   }
 }
 .news {
-  background: url("/img/news/Layer 441.jpg") no-repeat center;
+  background: url("../img/news/Layer 441.jpg") no-repeat center;
   background-size: cover;
   height: 695px;
   position: relative;
@@ -4245,7 +4245,7 @@ body {
   height: 114px;
   position: relative;
   color: #fff;
-  background: url("/img/work/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
+  background: url("../img/work/BOUNCY---CREATIVE-AGENCY-AND-PORTFOLIO-TEMPLATE_02.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -4567,7 +4567,7 @@ body {
   top: 50%;
 }
 .subscribe {
-  background: url("/img/subscribe/Layer 449.jpg") no-repeat 50% 79%;
+  background: url("../img/subscribe/Layer 449.jpg") no-repeat 50% 79%;
   background-size: cover;
   height: 380px;
   position: relative;
@@ -4858,7 +4858,7 @@ body {
   margin: 0 11px;
 }
 .teamcta {
-  background: url("/img/team/Layer 104.jpg") no-repeat center;
+  background: url("../img/team/Layer 104.jpg") no-repeat center;
   background-size: cover;
   height: 202px;
   position: relative;
