@@ -1,0 +1,43 @@
+@import "smart-grid.less";
+
+.humans {
+    background: #232323;
+    text-align: center;
+}
+
+.row {
+    .row-flex();
+    .justify-content-md(center);
+
+    .col {
+        .col-6();
+        .col-md-9();
+        background: #fff;
+        border-radius: 10px;
+        margin: 20px auto;
+        padding: 10px;
+
+        img {
+            max-width: 100%;
+        }
+
+        .subtitle {
+            color: #6cc372;
+            font-size: 24px;
+            margin: 10px;
+        }
+
+        .job {
+            margin: 10px;
+        }
+
+        .follow {
+            background: #6cc372;
+            color: #fff;
+            font-size: 24px;
+            cursor: pointer;
+            border-radius: 5px;
+            padding: 5px;
+        }
+    }
+}

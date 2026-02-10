@@ -1,23 +1,22 @@
 {
-  "name": "bouncy",
-  "private": true,
-  "version": "2.0.0",
-  "type": "module",
+  "name": "gulp4-test",
+  "version": "1.0.0",
+  "description": "starter project for new project",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.0.2"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1",
-    "@vitejs/plugin-react": "^4.3.4",
-    "sass": "^1.83.1",
-    "typescript": "^5.7.2",
-    "vite": "^5.4.10"
+    "gulp-group-css-media-queries": "^1.2.2",
+    "smart-grid": "^2.1.2"
   }
 }
