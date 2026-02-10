@@ -1,0 +1,35 @@
+.header {
+  background: $color-dark;
+  color: #fff;
+
+  &__content {
+    min-height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  &__logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  &__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+  }
+
+  &__link {
+    font-size: 0.95rem;
+    opacity: 0.85;
+
+    &:hover {
+      opacity: 1;
+      color: $color-primary;
+    }
+  }
+}
