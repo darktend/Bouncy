@@ -1,0 +1,56 @@
+.bouncy {
+    padding: 100px 0;
+
+    &__us {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        position: relative;
+
+        &-ipadimg {
+            position: absolute;
+            top: -26px;
+            right: 0;
+        }
+    }
+
+    &__item {
+        display: flex;
+        flex-direction: column;
+
+        &-title {
+            font-size: 20px;
+            font-family: 'Source Sans Pro',
+                sans-serif;
+            color: #333b46;
+            font-weight: 300;
+            margin-bottom: 50px;
+        }
+
+        &-text {
+            font-family: 'Open Sans',
+                sans-serif;
+            font-size: 14px;
+            line-height: 1.5;
+            width: 100%;
+            max-width: 441px;
+            color: #81868e;
+            margin-bottom: 35px;
+        }
+
+        &-btn {
+            text-decoration: none;
+            font-size: 16px;
+            font-family: 'Open Sans',
+                sans-serif;
+            border: 2px solid #333b46;
+            border-radius: 50px;
+            padding: 12px 32px;
+            color: #333b46;
+            background: #fff;
+            min-width: 140px;
+            width: 100%;
+            max-width: 154px;
+        }
+    }
+}
